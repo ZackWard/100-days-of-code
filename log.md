@@ -8,3 +8,12 @@
 
 **Link(s) to work**
 1. [Updated Test Cases](https://github.com/ZackWard/fcc-book-club/commit/c8985511e089069ac5085474e88cd75f72ec1807)
+
+### Day 2: Wednesday, July 19th, 2017
+
+**Today's Progress**: Continued to refactor tests. Implemented cancel/decline trade request functionality.
+
+**Thoughts**: After I finish refactoring these tests, I should be able to run any test in isolation, and to run the tests in any order. Hopefully I should be finished with the API soon, and can begin working on the front end. 
+
+**Link(s) to work**
+1. [More test refactoring, add cancel/decline request functionality](https://github.com/ZackWard/fcc-book-club/commit/14b7892660b4dc9b3de921a2e8ff92a7f7348ac5)
